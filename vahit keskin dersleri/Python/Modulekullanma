@@ -1,0 +1,12 @@
+
+import HesapMod
+
+HesapMod.yeni_maas(12)
+
+
+import HesapMod as hm
+hm.yeni_maas(60)
+
+
+from HesapMod import yeni_maas
+yeni_maas(235)
